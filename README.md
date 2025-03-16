@@ -1,3 +1,5 @@
+Work in Progress
+
 Endothelial Cell Segmentation Using Deep Learning Techniques<br />
 
 **Overview**<br />
@@ -19,5 +21,5 @@ DCGAN-based Segmentation: Utilizes UNet architecture with a pre-trained ResNet50
 
 **Results**<br />
 Segmentation Output
-Below is a visual comparison of the source image, generated mask, and real mask:
+Below is a visual comparison of the source image, generated mask, and real mask at the moment:
 ![image](https://github.com/user-attachments/assets/a3eddd4f-60ca-4562-b2ea-7fbcd4053296)
